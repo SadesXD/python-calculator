@@ -12,7 +12,7 @@
 
 - 3. If you done, you can just click the file called `play.bat` and now you can use the calculator
 
-    <img src="./image/gambar.png" alt="iniGambar">
+    <img src="./image/gambar.PNG" alt="iniGambar">
 
 - 4. Enjoy 
 
